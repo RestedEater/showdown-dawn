@@ -1,5 +1,10 @@
 /config/*
 !/config/formats.ts
+!/config/config.js
+!/config/chatrooms.json
+!/config/avatars.json
+!/config/hosts.csv
+!/config/proxies.csv
 /logs/**/*
 /test/modlogs
 /test/replays/*.html
