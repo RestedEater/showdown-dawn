@@ -100728,6 +100728,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			dualchop: ["9M"],
 			dragondance: ["9M"],
 			poweruppunch: ["9M"],
+			pinmissile: ["9M"],
 		},
 	},
 	dripplin: {
@@ -100798,6 +100799,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			swagger: ["9L46"],
 			axekick: ["9L56"],
 			knockoff: ["9L65", "9M"],
+			firstimpression: ["9M"],
 			takedown: ["9M"],
 			agility: ["9M"],
 			scaryface: ["9M"],
@@ -101567,6 +101569,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			flamethrower: ["9M"],
 			acidarmor: ["9M"],
 			bodypress: ["9M"],
+			dragondance: ["9M"],
 		},
 	},
 	wendiglim: {
@@ -101580,6 +101583,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			shadowsneak: ["9L9"],
 			fakeout: ["9L12"],
 			scaryface: ["9L14", "9M"],
+			partingshot: ["9M"],
 			disable: ["9L15"],
 			detect: ["9L18"],
 			helpinghand: ["9L21", "9M", "9T"],
@@ -101867,6 +101871,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		smackdown: ["9M"],
 		coaching: ["9M"],
 		aurasphere: ["9M"],
+		focusblast: ["9M"],
 	}
 	},
 	falinksdawnianoffensive: {
@@ -101920,6 +101925,8 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		closecombat: ["9M"],
 		smackdown: ["9M"],
 		coaching: ["9M"],
+		aurasphere: ["9M"],
+		focusblast: ["9M"],
 	}
 	},
 	glimmetdawnian: {
@@ -102020,6 +102027,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		bravebird: ["9M"],
 		pluck: ["9M"],
 		playrough: ["9M"],
+		poisonjab: ["9M"],
 		alluringvoice: ["9M"],
 		hypervoice: ["9M"],
 		psychicnoise: ["9M"],
@@ -102057,7 +102065,6 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		hammerarm: ["9M"],
 		woodhammer: ["9M"],
 		strugglebug: ["9M"],
-		shellsmash: ["9M"],
 		scorchingsands: ["9M"],
 		pounce: ["9M"],
 		facade: ["9M"],
@@ -102433,6 +102440,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		thunderbolt: ["9M"],
 		voltswitch: ["9M"],
 		willowisp: ["9M"],
+		sludgewave: ["9M"],
 	}
 	},
 	rotomsound: {
@@ -102491,6 +102499,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		thunderbolt: ["9M"],
 		voltswitch: ["9M"],
 		willowisp: ["9M"],
+		boomburst: ["9M"],
 	}
 	},
 	rotomjack: {
@@ -102549,6 +102558,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		thunderbolt: ["9M"],
 		voltswitch: ["9M"],
 		willowisp: ["9M"],
+		earthpower: ["9M"],
 	}
 	},
 	rotomvision: {
@@ -102607,6 +102617,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 		thunderbolt: ["9M"],
 		voltswitch: ["9M"],
 		willowisp: ["9M"],
+		psychoboost: ["9M"],
 	}
 	},
 	sableyedawnian: {

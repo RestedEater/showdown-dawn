@@ -244,6 +244,11 @@ export const FormatsData: import('../sim/dex-species').SpeciesFormatsDataTable =
 		doublesTier: "UNLIM",
 		natDexTier: "UNLIM",
 	},
+	drimpactf: {
+		tier: "UNLIM",
+		doublesTier: "UNLIM",
+		natDexTier: "UNLIM",
+	},
 	bogolotl: {
 		tier: "UNLIM",
 		doublesTier: "UNLIM",

@@ -6,6 +6,11 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		section: "New Dawn",
 	},
 	{
+		name: "[Gen 9] National Dex Anything Goes",
+		mod: 'gen9',
+		ruleset: ['NatDex Mod'],
+	},
+	{
 		name: "[Gen 9] New Dawn Official Singles Format",
 		mod: 'gen9',
 		ruleset: ['New Dawn Rules', 'NatDex Mod'],

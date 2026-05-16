@@ -5661,6 +5661,8 @@ export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
 		num: -3,
 	},
 	formation: {
+		desc: "If this Pokemon is a non-Terastallized Dawnian Falinks, it changes between Defensive and Offensive formations at the end of each turn.",
+		shortDesc: "Dawnian Falinks changes between Defensive and Offensive forms each turn.",
 		name: "Formation",
 		onResidualOrder: 29,
 		onResidual(pokemon) {

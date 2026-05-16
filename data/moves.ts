@@ -21317,6 +21317,8 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		accuracy: 100,
 		basePower: 95,
 		category: "Special",
+		desc: "Only Falinks can use this move. When used by Falinks-Dawnian, this move instead raises the user's Special Attack and Special Defense by 1 stage.",
+		shortDesc: "Falinks only. Dawnian: raises the user's Sp. Atk and Sp. Def by 1.",
 		name: "Initiative",
 		pp: 10,
 		priority: 0,
@@ -21361,6 +21363,8 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 		accuracy: 100,
 		basePower: 0,
 		category: "Physical",
+		desc: "Randomly draws one of 13 cards, each with an equal 1/13 chance: Ace OHKOs the target; Two OHKOs the user; Three puts the user to sleep; Four makes the user hit itself with 60 Base Power; Five deals 35 Base Power damage; Six heals the user by 1/16 max HP; Seven paralyzes the target; Eight deals 70 Base Power damage; Nine heals the user by 1/8 max HP; Ten puts the target to sleep; Jack heals the user by 1/4 max HP; Queen raises the user's Attack, Special Attack, and Speed by 1 stage; King deals 100 Base Power damage.",
+		shortDesc: "Equal 1/13 chance for each card effect; Queen boosts Atk, Sp. Atk, and Spe.",
 		name: "Lucky Draw",
 		pp: 10,
 		priority: 0,
@@ -21424,7 +21428,7 @@ export const Moves: import('../sim/dex-moves').MoveDataTable = {
 				move.boosts = {
 					atk: 1,
 					spa: 1,
-					spd: 1,
+					spe: 1,
 				};
 				move.category = "Status";
 			} else {
