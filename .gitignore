@@ -5,6 +5,7 @@
 !/config/avatars.json
 !/config/hosts.csv
 !/config/proxies.csv
+/localstuff/
 /logs/**/*
 /test/modlogs
 /test/replays/*.html

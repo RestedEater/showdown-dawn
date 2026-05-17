@@ -20745,6 +20745,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	// NOTE: PokeStar "formes" are not actually formes and thus do not have a formeOrder
 	pokestarsmeargle: {
 		num: -5000,
+		isNonstandard: "Custom",
 		name: "Pokestar Smeargle",
 		types: ["Normal"],
 		baseStats: { hp: 55, atk: 20, def: 35, spa: 20, spd: 45, spe: 75 },
@@ -20757,6 +20758,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarufo: {
 		num: -5001,
+		isNonstandard: "Custom",
 		name: "Pokestar UFO",
 		types: ["Flying", "Electric"],
 		gender: "N",
@@ -20772,6 +20774,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarufo2: {
 		num: -5001,
+		isNonstandard: "Custom",
 		name: "Pokestar UFO-2",
 		baseSpecies: "Pokestar UFO",
 		forme: "2",
@@ -20787,6 +20790,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarbrycenman: {
 		num: -5002,
+		isNonstandard: "Custom",
 		name: "Pokestar Brycen-Man",
 		types: ["Dark", "Psychic"],
 		gender: "M",
@@ -20801,6 +20805,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarmt: {
 		num: -5003,
+		isNonstandard: "Custom",
 		name: "Pokestar MT",
 		types: ["Steel"],
 		gender: "N",
@@ -20815,6 +20820,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarmt2: {
 		num: -5004,
+		isNonstandard: "Custom",
 		name: "Pokestar MT2",
 		types: ["Steel", "Electric"],
 		gender: "N",
@@ -20829,6 +20835,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestartransport: {
 		num: -5005,
+		isNonstandard: "Custom",
 		name: "Pokestar Transport",
 		types: ["Steel"],
 		gender: "N",
@@ -20843,6 +20850,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestargiant: {
 		num: -5006,
+		isNonstandard: "Custom",
 		name: "Pokestar Giant",
 		types: ["Normal"],
 		gender: "F",
@@ -20857,6 +20865,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarhumanoid: {
 		num: -5007,
+		isNonstandard: "Custom",
 		name: "Pokestar Humanoid",
 		types: ["Normal"],
 		baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
@@ -20870,6 +20879,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarmonster: {
 		num: -5008,
+		isNonstandard: "Custom",
 		name: "Pokestar Monster",
 		types: ["Dark"],
 		baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
@@ -20883,6 +20893,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarf00: {
 		num: -5009,
+		isNonstandard: "Custom",
 		name: "Pokestar F-00",
 		types: ["Steel", "Normal"],
 		baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
@@ -20896,6 +20907,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarf002: {
 		num: -5010,
+		isNonstandard: "Custom",
 		name: "Pokestar F-002",
 		types: ["Steel", "Normal"],
 		baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
@@ -20909,6 +20921,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarspirit: {
 		num: -5011,
+		isNonstandard: "Custom",
 		name: "Pokestar Spirit",
 		types: ["Dark", "Ghost"],
 		baseStats: { hp: 100, atk: 100, def: 100, spa: 100, spd: 100, spe: 100 },
@@ -20922,6 +20935,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarblackdoor: {
 		num: -5012,
+		isNonstandard: "Custom",
 		name: "Pokestar Black Door",
 		types: ["Grass"],
 		gender: "F",
@@ -20936,6 +20950,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarwhitedoor: {
 		num: -5013,
+		isNonstandard: "Custom",
 		name: "Pokestar White Door",
 		types: ["Fire"],
 		gender: "M",
@@ -20950,6 +20965,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarblackbelt: {
 		num: -5014,
+		isNonstandard: "Custom",
 		name: "Pokestar Black Belt",
 		types: ["Fighting"],
 		gender: "M",
@@ -20964,6 +20980,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	},
 	pokestarufopropu2: {
 		num: -5001,
+		isNonstandard: "Custom",
 		name: "Pokestar UFO-PropU2",
 		baseSpecies: "Pokestar UFO",
 		forme: "PropU2",

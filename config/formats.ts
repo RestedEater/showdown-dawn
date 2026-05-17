@@ -11,6 +11,12 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['NatDex Mod'],
 	},
 	{
+		name: "[Gen 9] National Dex Anything Goes Doubles",
+		mod: 'gen9',
+		gameType: 'doubles',
+		ruleset: ['NatDex Mod'],
+	},
+	{
 		name: "[Gen 9] New Dawn Official Singles Format",
 		mod: 'gen9',
 		ruleset: ['New Dawn Rules', 'NatDex Mod'],
